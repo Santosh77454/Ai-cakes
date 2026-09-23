@@ -1,0 +1,8 @@
+{
+  "name": "Sweet Delight Cakes",
+  "description": "Premium online cake bakery for custom celebration cakes, photo cakes, birthday cakes, and same-day delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
